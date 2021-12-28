@@ -1,8 +1,7 @@
 Welcome to...
 # Arguxx's Code Diary
 
-feel free to explore it
-
+Just an Ordinary Software Engineering Application Student.
 
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=arguxx&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
