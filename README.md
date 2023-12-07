@@ -11,6 +11,6 @@ Just an Ordinary Software Engineering Application Student.
 
 ---
 
-Reach me at: https://www.linkedin.com/in/argian-raditya-43a010182/
+Know me well at: bento.me/argian
 
 
